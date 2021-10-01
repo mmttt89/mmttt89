@@ -1,6 +1,7 @@
 ### Hi there, I'm Mehdi 👋
 
 ## Introduction
+---
 
 - 🔭 I’m currently working at adorateb and their projects: 
   adorium.adorateb.ir
@@ -47,5 +48,6 @@ development. My area of expertise is React, Next-Js and React-Native
 <br />
 <br />
 
+---
 [![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=mmttt89)](https://github.com/mmttt89/github-readme-stats)
 
