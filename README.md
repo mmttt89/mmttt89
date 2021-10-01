@@ -3,9 +3,9 @@
 ## Introduction
 ---
 
-- 🔭 I’m currently working at adorateb and their projects: 
+ 🔭 I’m currently working at adorateb and their projects: 
   adorium.adorateb.ir
-- 🌱 I’m currently learning Asp.Net, Dev-Ops solutions and docker stuffs
+ 🌱 I’m currently learning Asp.Net, Dev-Ops solutions and docker stuffs
 
 I am a web and mobile application developer with 3 years of working
 experience in different types of business fields including pharmaceutical, health, and
@@ -50,4 +50,5 @@ development. My area of expertise is React, Next-Js and React-Native
 <br />
 
 ---
+
 [![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=mmttt89)](https://github.com/mmttt89/github-readme-stats)
