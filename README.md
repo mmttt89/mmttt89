@@ -17,10 +17,12 @@ development. My area of expertise is React, Next-Js and React-Native
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/mmttt89/mmttt89/blob/main/images/linkedin_logo.ico" />](https://www.linkedin.com/in/mehdi-taghdisi-167203173/)
 <br />
 <br />
-<br />
 
 ### Languages and Tools
 <img align="left" alt="Python" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Html_logo.png" />
+<img align="left" alt="Python" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/css_logo.jpg" />
+<img align="left" alt="Python" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/javascript.svg.png" />
+<img align="left" alt="Python" width="26px" src="https://github.com/mmttt89/mmttt89/tree/main/images" />
 
 
 <!--
