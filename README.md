@@ -29,6 +29,8 @@ development. My area of expertise is React, Next-Js and React-Native
 <img align="left" alt="ReactNative" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/RN_logo.png" />
 <img align="left" alt="NextJs" width="30px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Nextjs_logogo.svg.png" />
 
+<br/>
+
 <img align="left" alt="Redux" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/redux_logo.png" />
 <img align="left" alt="Firebase" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/firebase_logo.png" />
 <img align="left" alt="Docker" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/docker-logo.png" />
@@ -38,19 +40,9 @@ development. My area of expertise is React, Next-Js and React-Native
 <img align="left" alt="Azure" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Azure-DevOps.jpeg" />
 
 
+<br/>
+<br/>
+<br/>
+
 [![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=mmttt89)](https://github.com/mmttt89/github-readme-stats)
 
-<!--
-**mmttt89/mmttt89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
