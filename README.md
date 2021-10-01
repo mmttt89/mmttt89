@@ -34,9 +34,11 @@ development. My area of expertise is React, Next-Js and React-Native
 <img align="left" alt="Docker" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/docker-logo.png" />
 <img align="left" alt="SQL" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/SQL_logo.png" />
 <img align="left" alt="TFS" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/tfs_logo.png" />
-<img align="left" alt="Git" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Git_logo.jpeg" />
+<img align="left" alt="Git" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Git_logo.png" />
 <img align="left" alt="Azure" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Azure-DevOps.jpeg" />
 
+
+[![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=mmttt89)](https://github.com/mmttt89/github-readme-stats)
 
 <!--
 **mmttt89/mmttt89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
