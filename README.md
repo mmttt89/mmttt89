@@ -33,11 +33,12 @@ development. My area of expertise is React, Next-Js and React-Native
 <img align="left" alt="React" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/react_logo.png" />
 <img align="left" alt="ReactNative" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/RN_logo.png" />
 <img align="left" alt="NextJs" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Nextjs_logogo.svg.png" />
-
-<br />
-<br />
-
 <img align="left" alt="Redux" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/redux_logo.png" />
+
+<br />
+<br />
+
+<img align="left" alt="Redux" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/graphql_logo.png" />
 <img align="left" alt="Firebase" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/firebase_logo.png" />
 <img align="left" alt="Docker" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/docker-logo.png" />
 <img align="left" alt="SQL" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/SQL_logo.png" />
@@ -50,4 +51,3 @@ development. My area of expertise is React, Next-Js and React-Native
 
 ---
 [![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=mmttt89)](https://github.com/mmttt89/github-readme-stats)
-
