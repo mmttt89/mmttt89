@@ -20,18 +20,22 @@ development. My area of expertise is React, Next-Js and React-Native
 
 ### Languages and Tools
 
-<img align="left" alt="Python" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Html_logo.png" />
-<img align="left" alt="Python" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/css_logo.png" />
-<img align="left" alt="Python" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/javascript.svg.png" />
-<img align="left" alt="Python" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/ts_logo.svg.png" />
-<img align="left" alt="Python" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/react_logo.png" />
-<img align="left" alt="Python" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/RN_logo.png" />
-<img align="left" alt="Python" width="30px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Nextjs_logogo.svg.png" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Html_logo.png" />
+<img align="left" alt="CSS" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/css_logo.png" />
+<img align="left" alt="Sass" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/sass_logo.png" />
+<img align="left" alt="JS" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/javascript.svg.png" />
+<img align="left" alt="TS" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/ts_logo.svg.png" />
+<img align="left" alt="React" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/react_logo.png" />
+<img align="left" alt="ReactNative" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/RN_logo.png" />
+<img align="left" alt="NextJs" width="30px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Nextjs_logogo.svg.png" />
 
-<img align="left" alt="Python" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/redux_logo.png" />
-<img align="left" alt="Python" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/firebase_logo.png" />
-
-<img align="left" alt="Python" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Docker_logo.svg.png" />
+<img align="left" alt="Redux" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/redux_logo.png" />
+<img align="left" alt="Firebase" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/firebase_logo.png" />
+<img align="left" alt="Docker" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/docker-logo.png" />
+<img align="left" alt="SQL" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/SQL_logo.png" />
+<img align="left" alt="TFS" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/tfs_logo.jpeg" />
+<img align="left" alt="Git" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Git_logo.jpeg" />
+<img align="left" alt="Azure" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Azure-DevOps.jpeg" />
 
 
 <!--
