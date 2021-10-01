@@ -22,7 +22,15 @@ development. My area of expertise is React, Next-Js and React-Native
 <img align="left" alt="Python" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Html_logo.png" />
 <img align="left" alt="Python" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/css_logo.jpg" />
 <img align="left" alt="Python" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/javascript.svg.png" />
-<img align="left" alt="Python" width="26px" src="https://github.com/mmttt89/mmttt89/tree/main/images" />
+<img align="left" alt="Python" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/ts_logo.svg.png" />
+
+<img align="left" alt="Python" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/react_logo.jpg" />
+<img align="left" alt="Python" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/RN_logo.png" />
+<img align="left" alt="Python" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Nextjs_logogo.svg.png" />
+<img align="left" alt="Python" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/redux_logo.png" />
+<img align="left" alt="Python" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/firebase_logo.png" />
+
+<img align="left" alt="Python" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Docker_logo.svg.png" />
 
 
 <!--
