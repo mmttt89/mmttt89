@@ -19,6 +19,7 @@ development. My area of expertise is React, Next-Js and React-Native
 <br />
 
 ### Languages and Tools
+
 <img align="left" alt="Python" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Html_logo.png" />
 <img align="left" alt="Python" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/css_logo.jpg" />
 <img align="left" alt="Python" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/javascript.svg.png" />
