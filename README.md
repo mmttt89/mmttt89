@@ -32,7 +32,7 @@ development. My area of expertise is React, Next-Js and React-Native
 <img align="left" alt="TS" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/ts_logo.svg.png" />
 <img align="left" alt="React" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/react_logo.png" />
 <img align="left" alt="ReactNative" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/RN_logo.png" />
-<img align="left" alt="NextJs" width="30px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Nextjs_logogo.svg.png" />
+<img align="left" alt="NextJs" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Nextjs_logogo.svg.png" />
 
 <br />
 <br />
