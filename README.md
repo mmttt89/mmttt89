@@ -66,8 +66,8 @@ development. My area of expertise is React, Next-Js and React-Native
 https://www.tipzapp.com/
 
 - web
- - https://adorium.adorateb.ir/
- - https://sfe.adorateb.ir/
+ -- https://adorium.adorateb.ir/
+ -- https://sfe.adorateb.ir/
 
 <br/>
 
