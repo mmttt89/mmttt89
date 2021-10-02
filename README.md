@@ -20,8 +20,6 @@ development. My area of expertise is React, Next-Js and React-Native
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/mmttt89/mmttt89/blob/main/images/linkedin_logo.ico" />](https://www.linkedin.com/in/mehdi-taghdisi-167203173/)
 
 <br/>
-<br/>
-
 #### You can find my contact numbers in my resume if you need:
 [<img align="left" alt="LinkedIn" width="30px" src="https://github.com/mmttt89/mmttt89/blob/main/images/resume_1.png" />](https://github.com/mmttt89/mmttt89/blob/main/Mehdi%20Resume.pdf)
 
