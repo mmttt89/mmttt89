@@ -46,7 +46,7 @@ development. My area of expertise is React, Next-Js and React-Native
 <br />
 
 
-(<img align="left" alt="Graphql" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/graphql_logo.png" />){:margin-top="10px"}
+(<img align="left" alt="Graphql" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/graphql_logo.png" />)
 <img align="left" alt="Firebase" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/firebase_logo.png" />
 <img align="left" alt="Docker" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/docker-logo.png" />
 <img align="left" alt="SQL" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/SQL_logo.png" />
