@@ -32,29 +32,29 @@ development. My area of expertise is React, Next-Js and React-Native
 
 ---
 
-<img align="left" alt="HTML5" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Html_logo.png" />
-<img align="left" alt="CSS" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/css_logo.png" />
-<img align="left" alt="Sass" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/sass_logo.png" />
-<img align="left" alt="JS" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/javascript.svg.png" />
-<img align="left" alt="TS" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/ts_logo.svg.png" />
-<img align="left" alt="React" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/react_logo.png" />
-<img align="left" alt="ReactNative" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/RN_logo.png" />
-<img align="left" alt="NextJs" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Nextjs_logogo.svg.png" />
-<img align="left" alt="Redux" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/redux_logo.png" />
+<img align="left" alt="HTML5" width="36px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Html_logo.png" />
+<img align="left" alt="CSS" width="36px" src="https://github.com/mmttt89/mmttt89/blob/main/images/css_logo.png" />
+<img align="left" alt="Sass" width="36px" src="https://github.com/mmttt89/mmttt89/blob/main/images/sass_logo.png" />
+<img align="left" alt="JS" width="36px" src="https://github.com/mmttt89/mmttt89/blob/main/images/javascript.svg.png" />
+<img align="left" alt="TS" width="36px" src="https://github.com/mmttt89/mmttt89/blob/main/images/ts_logo.svg.png" />
+<img align="left" alt="React" width="36px" src="https://github.com/mmttt89/mmttt89/blob/main/images/react_logo.png" />
+<img align="left" alt="ReactNative" width="36px" src="https://github.com/mmttt89/mmttt89/blob/main/images/RN_logo.png" />
+<img align="left" alt="NextJs" width="36px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Nextjs_logogo.svg.png" />
+<img align="left" alt="Redux" width="36px" src="https://github.com/mmttt89/mmttt89/blob/main/images/redux_logo.png" />
 
 <br />
 <br />
 
 
-<img align="left" alt="Graphql" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/graphql_logo.png" />   .
-<img align="left" alt="Firebase" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/firebase_logo.png" />
-<img align="left" alt="Docker" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/docker-logo.png" />
-<img align="left" alt="SQL" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/SQL_logo.png" />
+<img align="left" alt="Graphql" width="36px" src="https://github.com/mmttt89/mmttt89/blob/main/images/graphql_logo.png" />   .
+<img align="left" alt="Firebase" width="36px" src="https://github.com/mmttt89/mmttt89/blob/main/images/firebase_logo.png" />
+<img align="left" alt="Docker" width="36px" src="https://github.com/mmttt89/mmttt89/blob/main/images/docker-logo.png" />
+<img align="left" alt="SQL" width="36px" src="https://github.com/mmttt89/mmttt89/blob/main/images/SQL_logo.png" />
 <img align="left" alt="TFS" width="40px" src="https://github.com/mmttt89/mmttt89/blob/main/images/tfs_logo.png" />
-<img align="left" alt="Git" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Git_logo.png" />
+<img align="left" alt="Git" width="36px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Git_logo.png" />
 <img align="left" alt="Azure" width="45px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Azure-DevOps.jpeg" />
-<img align="left" alt="Visual studio" width="45px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Visual-Studio-Logo.png" />
-<img align="left" alt="VS code" width="45px" src="https://github.com/mmttt89/mmttt89/blob/main/images/vs_code.png" />
+<img align="left" alt="Visual studio" width="36px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Visual-Studio-Logo.png" />
+<img align="left" alt="VS code" width="36px" src="https://github.com/mmttt89/mmttt89/blob/main/images/vs_code.png" />
 
 <br />
 <br />
