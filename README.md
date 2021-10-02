@@ -3,7 +3,7 @@
 ---
 
  - 🔭 I’m currently working at adorateb and their projects: 
-  https://adorium.adorateb.ir/
+  https://adorateb.com/
   
  - 🌱 I’m currently learning Asp.Net, Dev-Ops solutions and docker stuffs
 
@@ -62,12 +62,12 @@ development. My area of expertise is React, Next-Js and React-Native
 ### Projects
 
 ---
--React Native
+- React Native
 https://www.tipzapp.com/
 
 - web
- https://adorium.adorateb.ir/
- https://sfe.adorateb.ir/
+ - https://adorium.adorateb.ir/
+ - https://sfe.adorateb.ir/
 
 <br/>
 
