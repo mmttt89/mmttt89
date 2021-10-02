@@ -1,6 +1,5 @@
 ### Hi there, I'm Mehdi 👋
 
-## Introduction
 ---
 
  - 🔭 I’m currently working at adorateb and their projects: 
@@ -19,6 +18,9 @@ development. My area of expertise is React, Next-Js and React-Native
 ---
 
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/mmttt89/mmttt89/blob/main/images/linkedin_logo.ico" />](https://www.linkedin.com/in/mehdi-taghdisi-167203173/)
+
+https://github.com/mmttt89/mmttt89/blob/main/Mehdi%20Resume.pdf
+
 <br />
 <br />
 
