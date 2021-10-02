@@ -46,13 +46,13 @@ development. My area of expertise is React, Next-Js and React-Native
 <br />
 
 
-<img align="left" alt="Redux" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/graphql_logo.png" />
+<img align="left" alt="Redux" width="26px" style="margin-top:20px;" src="https://github.com/mmttt89/mmttt89/blob/main/images/graphql_logo.png" />
 <img align="left" alt="Firebase" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/firebase_logo.png" />
 <img align="left" alt="Docker" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/docker-logo.png" />
 <img align="left" alt="SQL" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/SQL_logo.png" />
-<img align="left" alt="TFS" width="30px" src="https://github.com/mmttt89/mmttt89/blob/main/images/tfs_logo.png" />
+<img align="left" alt="TFS" width="40px" src="https://github.com/mmttt89/mmttt89/blob/main/images/tfs_logo.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Git_logo.png" />
-<img align="left" alt="Azure" width="35px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Azure-DevOps.jpeg" />
+<img align="left" alt="Azure" width="45px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Azure-DevOps.jpeg" />
 
 <br />
 <br />
