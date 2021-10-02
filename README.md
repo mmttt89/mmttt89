@@ -53,6 +53,8 @@ development. My area of expertise is React, Next-Js and React-Native
 <img align="left" alt="TFS" width="40px" src="https://github.com/mmttt89/mmttt89/blob/main/images/tfs_logo.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Git_logo.png" />
 <img align="left" alt="Azure" width="45px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Azure-DevOps.jpeg" />
+<img align="left" alt="Visual studio" width="45px" src="https://github.com/mmttt89/mmttt89/blob/main/images/Visual-Studio-Logo.png" />
+<img align="left" alt="VS code" width="45px" src="https://github.com/mmttt89/mmttt89/blob/main/images/vs_code.png" />
 
 <br />
 <br />
