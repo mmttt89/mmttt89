@@ -22,7 +22,7 @@ development. My area of expertise is React, Next-Js and React-Native
 <br/>
 
 #### You can find my contact numbers in my resume if you need:
-[<img align="left" alt="LinkedIn" width="30px" src="https://github.com/mmttt89/mmttt89/blob/main/images/resume_1.png" />](https://github.com/mmttt89/mmttt89/blob/main/Mehdi%20Resume.pdf)
+[<img align="left" alt="LinkedIn" width="30px" src="https://github.com/mmttt89/mmttt89/blob/main/images/resume_1.png" />](https://github.com/mmttt89/mmttt89/blob/main/Mehdi%20Resume_1.pdf)
 
 
 <br />
