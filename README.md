@@ -7,7 +7,7 @@
   
  - 🌱 I’m currently learning Asp.Net, Dev-Ops solutions and docker stuffs
 
-I am a web and mobile application developer with 3 years of working
+I am a web and mobile application developer with 4 years of working
 experience in different types of business fields including pharmaceutical, health, and
 social activities. Skilled mostly in mobile application development and web front-end
 development. My area of expertise is React, Next-Js and React-Native
