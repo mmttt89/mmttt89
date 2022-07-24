@@ -2,8 +2,7 @@
 
 ---
 
- - 🔭 I’m currently working at adorateb and their projects: 
-  https://adorateb.com/
+ - 🔭 My Main focus is React-Native, and currently working on it.
   
  - 🌱 I’m currently learning Asp.Net, Dev-Ops solutions and docker stuffs
 
