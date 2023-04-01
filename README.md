@@ -17,6 +17,8 @@ But still expanding my knowledge on mobile world
 - 💼 any freelance work? do reach, [email](mailto:mehdi.taghdic@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
+  <img align="right" alt="GIF" src="https://github.com/mmttt89/mmttt89/blob/master/code.gif?raw=true" width="500" height="320" />
+
 <br/>
 
 ---
