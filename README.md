@@ -62,7 +62,7 @@ But still expanding my knowledge on mobile world
   <tbody>
     <tr>
       <td><a href="https://play.google.com/store/apps/details?id=com.digikala.diagon&hl=en_US"><b>Digikala Mobile</b></a>
-      <img alt="Digikala" src="https://github.com/mmttt89/mmttt89/blob/main/images/digikala.webp" width="20" height="20"/>
+      <img alt="Digikala" src="https://github.com/mmttt89/mmttt89/blob/main/images/digikala.webp" width="17" height="17"/>
       </td>
     </tr>
     <tr>
