@@ -67,6 +67,7 @@ But still expanding my knowledge on mobile world
     </tr>
     <tr>
       <td><a href="https://Digikala.com/"><b>Digikala</b></a></td>
+	<img alt="Digikala" src="https://github.com/mmttt89/mmttt89/blob/main/images/digikala.webp" width="17" height="17"/>
     </tr>
 	  <tr>
       <td><a href="https://adorateb.com/"><b>Adorateb</b></a></td>
