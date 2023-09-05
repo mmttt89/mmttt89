@@ -2,7 +2,7 @@
 
 
 <a href="https://www.linkedin.com/in/mehdi-taghdisi/">
-  <img align="left" alt="Mehdi's LinkedIN" width="22px" src="https://github.com/mmttt89/mmttt89/blob/main/images/linkedIn.png" />
+  <img align="left" alt="Mehdi's LinkedIN" width="22px" src="https://github.com/mmttt89/mmttt89/blob/main/images/linkedIn.png" /> My Linkedin Profile
 </a>
 
 <br/>
