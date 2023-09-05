@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<a href="https://www.instagram.com/mmehditdc/">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
 
 <a href="https://www.linkedin.com/in/mehdi-taghdisi/">
   <img align="left" alt="Mehdi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -61,7 +58,7 @@ But still expanding my knowledge on mobile world
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://play.google.com/store/apps/details?id=com.digikala.diagon&hl=en_US"><b>Digikala Mobile</b></a>
+      <td><a href="https://cafebazaar.ir/app/com.digikala"><b>Digikala Mobile</b></a>
       <img alt="Digikala" src="https://github.com/mmttt89/mmttt89/blob/main/images/digikala.webp" width="17" height="17"/>
       </td>
     </tr>
