@@ -11,7 +11,7 @@
 I'm Mehdi, a Mobile and web developer from  Tehran, Iran. I have worked mostly with React-Native and React and am also experienced with Asp.Net and SQL.
 But still expanding my knowledge of the mobile world
 
-- 💼 any freelance work? do reach, [email](mailto:mehdi.taghdic@gmail.com) :)
+- 💼 any freelance work? reach [email](mailto:mehdi.taghdic@gmail.com) :)
 - 💬 ask me about anything, I am happy to help;
 
   <img align="right" alt="GIF" src="https://github.com/mmttt89/mmttt89/blob/main/images/coding.gif" width="500" height="320" />
